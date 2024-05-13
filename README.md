@@ -2,7 +2,7 @@
 
 ## How to Run
 
-## This is a method of javascript array methods
+### This is a method of javascript array methods
 
 To run the code, simply open the `index.html` file in a web browser
 
